@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on ... Computer Vision Project
 - 🤔 I’m looking for help with ... Reinforcement Learning
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Email id/Contact Number] (tiwari.rdhtiwari@gmail.com/ 7007251189)  ,
-- 
--     [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/radheshyam-tiwari/)
+- 📫 How to reach me: ... [Email id/Contact Number] (tiwari.rdhtiwari@gmail.com/ 7007251189)  ,[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/radheshyam-tiwari/)
 
 I am currently working as a IT Assistant Manager at Anshika Pvt ITI , Varanasi. I come with an extensive experience of working with different technologies including Computer Networking, Automation, Python Programming, Web Development, Data Science, Machine Learning and Deep Learning.
 
