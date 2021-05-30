@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... Computer Vision Project
 - 🤔 I’m looking for help with ... Reinforcement Learning
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... <img target="_blank" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png"/> (tiwari.rdhtiwari@gmail.com/ 7007251189)  ,[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/radheshyam-tiwari/) ,[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917007251189) 
+- 📫 How to reach me: ... <img target="_blank" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png"/>(tiwari.rdhtiwari@gmail.com/)  ,[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/radheshyam-tiwari/) ,[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917007251189) 
 
 I am currently working as a IT Assistant Manager at Anshika Pvt ITI , Varanasi. I come with an extensive experience of working with different technologies including Computer Networking, Automation, Python Programming, Web Development, Data Science, Machine Learning and Deep Learning.
 
