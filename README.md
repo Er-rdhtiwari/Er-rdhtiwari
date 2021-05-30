@@ -14,9 +14,7 @@ I am currently working as a IT Assistant Manager at Anshika Pvt ITI , Varanasi. 
 
 ### Things I'm good at :fire:
 
-### Data Science :fire:
-
-**Domain:** Web Scrapping, Machine Learning, Computer Vision, Image Processing Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+**Domain:** Web Scrapping, Machine Learning, Computer Vision, Image Processing Deep Learning, Data Science, Data Wrangling, Data Visualization,Computer Networking, Networking Wire and Server management, System Administration, PxeBoot Server, Cloud Deployment and Data Warehousing.
 
 **Languages:**  Python, SQL, HTML, Matlab, Octave and CSS.
 
